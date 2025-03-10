@@ -9,6 +9,8 @@
 
 ### Requirements
 * Implement the Luhn algorithm
+  * Build tests
+  * __MAYBE__: implement CI to run said tests
 * Create an HTTP server
 * Configure the server to respond to GET requests having a JSON payload
 * Accept valid JSON requests and proceed to step 5, whilst rejecting invalid requests using an HTTP 400 status code
